@@ -20,44 +20,63 @@
         ]
       },
       {
-      "id": "games-in-python",
-      "title": "Games in Python",
-      "description": "Creating games using Python",
-      "path": "assignments/games-in-python",
-      "dueDate": "2025-08-11"
-  },
-  {
-      "id": "python-classes",
-      "title": "Python Classes",
-      "description": "Defining and using classes in Python",
-      "path": "assignments/python-classes",
-      "dueDate": "2025-08-21",
-      "attachments": [
-        {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
-        }
-      ]
-  },
-  {
-      "id": "data-analysis",
-      "title": "Data Analysis",
-      "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
-      "path": "assignments/data-analysis",
-      "dueDate": "2025-09-24",
-      "attachments": [
-        {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
+        "id": "games-in-python",
+        "title": "Games in Python",
+        "description": "Creating games using Python",
+        "path": "assignments/games-in-python",
+        "dueDate": "2025-08-11"
       },
       {
-          "name": "Sample Dataset",
-          "file": "data.csv",
-          "type": "csv"
-        }
-      ]
-    }
+        "id": "python-classes",
+        "title": "Python Classes",
+        "description": "Defining and using classes in Python",
+        "path": "assignments/python-classes",
+        "dueDate": "2025-08-21",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          }
+        ]
+      },
+      {
+        "id": "data-analysis",
+        "title": "Data Analysis",
+        "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
+        "path": "assignments/data-analysis",
+        "dueDate": "2025-09-24",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          },
+          {
+            "name": "Sample Dataset",
+            "file": "data.csv",
+            "type": "csv"
+          }
+        ]
+      },
+      {
+        "id": "web-intro",
+        "title": "Introduction to Web Development",
+        "description": "Learn the basics of HTML, CSS, and JavaScript by building your first web page.",
+        "path": "assignments/web-intro",
+        "dueDate": "2025-10-05",
+        "attachments": [
+          {
+            "name": "HTML Template",
+            "file": "template.html",
+            "type": "html"
+          },
+          {
+            "name": "CSS Starter",
+            "file": "styles.css",
+            "type": "css"
+          }
+        ]
+      }
   ]
 }
