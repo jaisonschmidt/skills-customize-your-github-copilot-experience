@@ -5,28 +5,28 @@
     "description": "Introduction to programming and computer science"
   },
   "assignments": [
-    {
-      "id": "python-basics",
-      "title": "Python Basics",
-      "description": "Variables, data types, conditionals, and loops",
-      "path": "assignments/python-basics",
-      "dueDate": "2025-07-27",
-      "attachments": [
-        {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
-        }
-      ]
-    },
-    {
+      {
+        "id": "python-basics",
+        "title": "Python Basics",
+        "description": "Variables, data types, conditionals, and loops",
+        "path": "assignments/python-basics",
+        "dueDate": "2025-07-27",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          }
+        ]
+      },
+      {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
       "path": "assignments/games-in-python",
       "dueDate": "2025-08-11"
-    },
-    {
+  },
+  {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
@@ -39,8 +39,8 @@
           "type": "python"
         }
       ]
-    },
-    {
+  },
+  {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
@@ -51,8 +51,8 @@
           "name": "Starter Code",
           "file": "starter-code.py",
           "type": "python"
-        },
-        {
+      },
+      {
           "name": "Sample Dataset",
           "file": "data.csv",
           "type": "csv"
